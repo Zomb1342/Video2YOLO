@@ -2,6 +2,8 @@
 
 This project provides a simple Python script to extract frames from a video and generate empty label files, preparing your dataset for training YOLO object detection models.
 
+
+I HAVE NOT TESTED THIS SCRIPT AND I HAVE ALSO NOT FINISHED THIS README!!!!
 ---
 
 ## Table of Contents
